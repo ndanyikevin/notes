@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "9dcf312e6b7e9d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "25979068dc059f64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0476e963c9d66094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunday Service GMA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunday Service GMA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d247c343ed89a7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdc2c60cd299a690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e9f84f1d8ec01e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1dfb50faf6f6ebe1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81f4f71f3f060720",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fc060bf9c4193a46",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e3148b1bb301ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e70ee8e411c32028",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "QuickStart/Podman Tutorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Podman Tutorial"
+            }
+          },
+          {
+            "id": "d47fc495971681f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "QuickStart/Podman Tutorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Podman Tutorial"
+            }
+          },
+          {
+            "id": "e4947d3278e1b3e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "77fead4009e31a98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QuickStart/Podman Tutorial.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Podman Tutorial"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0476e963c9d66094",
+  "lastOpenFiles": [
+    "Sunday Service GMA.md",
+    "Software Development/Prisma ORM.md",
+    "postgres.md",
+    "Software Development/VS Code for ReactJS.md",
+    "Creating a winning system..md",
+    "Software Development/JS Mastery/Backend Development.md",
+    "Software Development/JS Mastery/snippets.md",
+    "KRA/How to file Company Returns.md",
+    "Software Development/JS Mastery",
+    "Software Development",
+    "QuickStart/Podman Tutorial.md",
+    "KRA",
+    "Welcome.md",
+    "Untitled.canvas",
+    "QuickStart",
+    "desktop.ini"
+  ]
+}
