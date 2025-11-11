@@ -1,0 +1,8 @@
+1. Forget about big tech. Focus on global startups and solo founders. Big companies have long pipelines and ATS filters. But small teams are looking for hustlers, not just degrees. Target founders on Linkedin and Twitter who  are actively building. These people need help yesterday.
+2. Package yourself. Position yourself as someone who can wear three hats: support, admin and content. Small teams don't hire specialists, they hire people who can figure things out and move fast.
+3. Create a portfolio. Design a simple page showing skilled offered, Tools used, Loom video introducing yourself (authenticity sells) One or two sample projects.
+4. Search Twitter and slack channels everyday. Type "remote job" hiring "freelance help" in search bars every morning and evening. Join slack groups for remote workers, freelancers and async startups (most of them post direct jobs not listed anywhere else).
+5. Cold pitch 10 people per day with this mssg: " Hey name, I saw you're building product. I'm a generalist from Nigeria who can help with x. I took a look at your site/twitter and I'd love support you part-time while you scale
+6. Offer value before asking for a pay. Even if it's 2 days free work. When you're a broke, trust is your currency. You need a way in. If they like your work, payment will follow plus a testimonial you can flip into the next gig.
+7. Stop overthinking titles. Start with where you are. Your goal is to break in, not to look perfect.
+8. Once you land a gig, document everything. Turn the process into a proof. "Here's how I landed a remote job in 2 weeks from Kenya with zero connections"

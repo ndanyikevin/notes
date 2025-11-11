@@ -36,7 +36,6 @@
     
 - Ideal for background jobs or delayed tasks in serverless apps.
     
-
 ---
 
 ### 🔹 Key Benefits
