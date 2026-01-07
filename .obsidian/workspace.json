@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9628a1fe9b69933",
+        "id": "4537de66abb049f2",
         "type": "tabs",
         "children": [
           {
-            "id": "615f3be950268f42",
+            "id": "a326153ec7a80652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Kubernetes/8. minikube and kubectl.md",
+                "file": "Deployments/6. automation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. minikube and kubectl"
+              "title": "6. automation"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "right": {
     "id": "fc060bf9c4193a46",
@@ -169,44 +170,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "615f3be950268f42",
+  "active": "a326153ec7a80652",
   "lastOpenFiles": [
-    "Cloud Computing/Kubernetes/7. config and secret.md",
+    "Deployments/5. docker for future.md",
+    "Deployments/6. automation.md",
+    "Deployments/4. nginx.md",
+    "Deployments/3. using bun.md",
+    "Deployments/2. setting up vps.md",
+    "Deployments/1. nano editor.md",
+    "school management system/database-setup/1. database.md",
+    "Deployments",
+    "school management system/database-setup",
+    "school management system/database-setup/4. soft deletes.md",
+    "school management system/database-setup/3. hono types.md",
+    "school management system/database-setup/2. global error and base service.md",
+    "Nginx/9. nginx commands.md",
+    "school management system",
+    "Nginx/8. files and folders for nginx.md",
+    "Nginx/7. Nginx.conf.md",
+    "Nginx/6. caching.md",
+    "Nginx/5. reverse-forwad proxy vs load balancers.md",
+    "Nginx/4. Forward Proxy.md",
+    "Nginx/3. Reverse Proxy.md",
+    "Nginx/2. Alternatives to Nginx.md",
+    "Nginx/1. What is Nginx.md",
+    "todos/ForexHighway Landing Page — To-Do List (Next.js 15).md",
+    "Nginx",
+    "todos/Brandflare Woodworks — Website Todos.md",
     "Cloud Computing/Kubernetes/8. minikube and kubectl.md",
+    "Cloud Computing/Kubernetes/7. config and secret.md",
     "Cloud Computing/Kubernetes/6. Deployments.md",
     "System Design/18. Vertical Partitioning.md",
     "Cloud Computing/System Design Concepts.pdf",
     "Cloud Computing/Kubernetes/5. clusters.md",
-    "Cloud Computing/Untitled.md",
-    "Cloud Computing/Kubernetes/4. ingress.md",
-    "Cloud Computing/Kubernetes/3. Services.md",
-    "Cloud Computing/Kubernetes/2. Pods.md",
-    "Cloud Computing/Kubernetes/1. What is Kubernetes.md",
-    "Cloud Computing/AWS/32. Elastic Load Balancer.md",
-    "Cloud Computing/AWS/23. EC2 Instance Key-Pair, Cluster Networking Instance..md",
-    "Cloud Computing/AWS/5. AWS Infrastructure.md",
     "Cloud Computing/AWS",
     "Cloud Computing/Kubernetes",
-    "Cloud Computing/Linux files and folders.md",
-    "Cloud Computing/AWS/28 EC2 Practical.md",
-    "Brandflare Woodworks/Database.md",
-    "Flutter/Basic commands.md",
-    "Flutter/Widgets.md",
     "Brandflare Woodworks",
     "Flutter",
-    "Dart/static variables.md",
-    "Dart/exception.md",
-    "Dart/inheritance.md",
-    "Dart/constructors.md",
-    "Dart/Classes.md",
-    "Dart/Named Parameters.md",
-    "Dart/Positional Parameters.md",
     "Dart",
-    "Forex/Strategy.md",
-    "Software Development/SQL",
-    "Forex/NJAT",
-    "Forex",
-    "todos",
     "Cloud Computing/img/26-IPs.png",
     "Cloud Computing/img/26-Global Accelerator.png",
     "Cloud Computing/img/26-EC2 steps.png",

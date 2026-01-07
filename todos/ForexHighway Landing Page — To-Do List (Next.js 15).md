@@ -48,8 +48,8 @@
 - [ ] Include forex risk statement
 
 ### Footer
-- [ ] Add About / Contact links
-- [ ] Add Privacy Policy + Terms
+- [x] Add About / Contact links
+- [x] Add Privacy Policy + Terms
 - [ ] Add forex risk disclaimer
 
 ## 4. Functionality
